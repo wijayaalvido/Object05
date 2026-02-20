@@ -1,6 +1,6 @@
-public class MahasiswaMain5 {
-    public static void main(String[] args) {
-        Mahasiswa mhs1 = new Mahasiswa();
+public class mahasiswaMain5 {
+      public static void main(String[] args) {
+        mahasiswa mhs1 = new mahasiswa();
         mhs1.nama = "Muhammad Ali Farhan";
         mhs1.nim = "2241720171";
         mhs1.kelas = "SI 2J";
